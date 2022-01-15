@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins' ;
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+   
+}
+.half-width img{
+    width: 80%;
+}
+#text{
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px 30px;
+    color: ghostwhite;
+    font-weight: 700;
+    border-radius: 20px;
+}
