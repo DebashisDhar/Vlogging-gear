@@ -9,6 +9,7 @@ body{
     height: 60px;
     background-color: crimson;
     align-items: center;
+    
   }
   .name{
     margin-left: 100px;
@@ -19,6 +20,7 @@ body{
   }
   .menu{
     width: 50%;
+    
   }
   .menu ul{
     display: flex;
